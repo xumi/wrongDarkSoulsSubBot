@@ -1,0 +1,121 @@
+game: Dark Souls 3
+subreddit: /r/darkSouls3
+references:
+  # ------------------------------------------------------------------------------
+  # Bosses
+  # ------------------------------------------------------------------------------
+  bosses:
+    - Abyss Watchers:
+        - Abyss Watchers
+    - Aldrich, Devourer of Gods:
+      - Aldrich, Devourer of Gods
+      - Aldrich
+    - Ancient Wyvern:
+      - Ancient Wyvern
+    - Champion Gundyr:
+      - Champion Gundyr
+      - Gundyr
+    - Champion's Gravetender:
+      - Champion's Gravetender
+    - Gravetender Greatwolf:
+      - Gravetender Greatwolf
+    - Crystal Sage:
+      - Crystal Sage
+    - Curse-rotted Greatwood:
+      - Curse-rotted Greatwood
+      - Curse-rotted
+    - Dancer of the Boreal Valley:
+      - Dancer of the Boreal Valley
+      - Dancer
+    - Deacons of the Deep:
+      - Deacons of the Deep
+      - Deacons
+    - Demon Prince:
+      - Demon Prince
+    - Dragonslayer Armour:
+      - Dragonslayer Armour
+    - Father Ariandel:
+      - Father Ariandel
+    - High Lord Wolnir:
+      - High Lord Wolnir
+      - Wolnir
+    - Iudex Gundyr:
+      - Iudex Gundyr
+    - Lorian, Elder Prince and Lothric, Younger Prince:
+      - Lorian
+    - Oceiros, the Consumed King:
+      - Oceiros
+      - Consumed King
+    - Pontiff Sulyvahn:
+      - Pontiff Sulyvahn
+      - Pontiff
+      - Sulyvahn
+    - Sister Friede:
+      - Sister Friede
+    - Slave Knight Gael:
+      - Slave Knight Gael
+      - Gael
+    - Soul of Cinder:
+      - Soul of Cinder
+    - The Nameless King:
+      - The Nameless King
+      - Nameless King
+      - Nameless
+    - Vordt of the Boreal Valley:
+      - Vordt of the Boreal Valley
+      - Vordt
+    - Yhorm the Giant:
+      - Yhorm the Giant
+      - Yhorm
+
+  # ------------------------------------------------------------------------------
+  # Locations
+  # ------------------------------------------------------------------------------
+  locations:
+    - Cemetery of Ash:
+      - Cemetery of Ash
+    - Firelink Shrine:
+      - Firelink Shrine
+    - High Wall of Lothric:
+      - High Wall of Lothric
+      - Lothric
+    - Undead Settlement:
+      - Undead Settlement
+    - Road of Sacrifices:
+      - Road of Sacrifices
+    - Cathedral of the Deep:
+      - Cathedral of the Deep
+    - Farron Keep:
+      - Farron Keep
+    - Catacombs of Carthus:
+      - Catacombs of Carthus
+      - Carthus
+    - Smouldering Lake:
+      - Smouldering Lake
+    - Irithyll of the Boreal Valley:
+      - Irithyll
+      - Boreal Valley
+    - Profaned Capital:
+      - Profaned Capital
+    - Lothric Castle:
+      - Lothric Castle
+      - Lothric
+    - Consumed King's Garden:
+      - Consumed King's Garden
+    - Grand Archives:
+      - Grand Archives
+    - Untended Graves:
+      - Untended Graves
+    - Archdragon Peak:
+      - Archdragon Peak
+    - Painted World of Ariandel:
+      - Painted World of Ariandel
+      - Ariandel
+    - The Dreg Heap:
+      - The Dreg Heap
+    - The Ringed City:
+      - The Ringed City
+
+  # ------------------------------------------------------------------------------
+  # Weapons
+  # ------------------------------------------------------------------------------
