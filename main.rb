@@ -10,21 +10,23 @@ USERNAME  = 'wrongDarkSoulsSubBot'
 # Hey, it's me!
 AUTHOR    = 'xumiz'
 # The version, duh.
-VERSION   = '0.0.1'
+VERSION   = '0.1.0'
 # The target subreddit
-# SUBREDDIT = 'darksouls'
-SUBREDDIT = 'bottest' # TEST
+SUBREDDIT = 'darksouls'
 
-# Load authentication data (username, password, client_id, secret)
-session = Redd.it( Hash[
+AUTH_DATA = Hash[
   YAML.load_file('./.auth').merge( {
       # Add mandatory user_agent
       user_agent: "Redd:wrongSarkSoulsSubBot:v#{VERSION} (by /u/#{AUTHOR})"
   } ).map{ |k, v| [k.to_sym, v] }
-] )
+]
 
 begin
+  # Load authentication data (username, password, client_id, secret)
+  session = Redd.it( AUTH_DATA )
+  # We load the previous posts and start the stream
   session.subreddit( SUBREDDIT ).post_stream( limit:100 ) do |post|
+    # puts "Test: #{post.url}"
     results = Tester::analyze( post )
     if results.any?
       # We don't want to create more than one comment per post
@@ -36,13 +38,20 @@ begin
       end
       # If we didn't write a comment before
       unless already_done
+        # We format the comment
+        comment = Formatter::as_comment( post, results )
         # We reply
-        post.reply( Formatter::as_comment( results ) )
+        post.reply( comment )
         # Some debug
-        puts "# replied to #{post.url}"
+        puts post.url
       end
     end
   end
 rescue Interrupt => i
   # Allow me to kill the script like a barbarian
+rescue Exception => e
+  puts "Exception"
+  puts "-"*80
+  puts e.inspect
+  puts "-"*80
 end

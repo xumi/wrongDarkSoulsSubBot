@@ -2,6 +2,19 @@ game: Dark Souls 3
 subreddit: /r/darkSouls3
 references:
   # ------------------------------------------------------------------------------
+  # Title
+  # ------------------------------------------------------------------------------
+  Dark Souls 3:
+    - Dark Souls 3:
+      - in Dark Souls 3
+      - from Dark Souls 3
+  # ------------------------------------------------------------------------------
+  # Hardware
+  # ------------------------------------------------------------------------------
+  hardware:
+    - PS4:
+      - (PS4)
+  # ------------------------------------------------------------------------------
   # Bosses
   # ------------------------------------------------------------------------------
   bosses:
@@ -74,8 +87,6 @@ references:
   locations:
     - Cemetery of Ash:
       - Cemetery of Ash
-    - Firelink Shrine:
-      - Firelink Shrine
     - High Wall of Lothric:
       - High Wall of Lothric
       - Lothric
@@ -94,6 +105,11 @@ references:
       - Smouldering Lake
     - Irithyll of the Boreal Valley:
       - Irithyll
+      - Irrithyll
+      - Irithyl
+      - Irythill
+      - Irrythill
+      - Irythil
       - Boreal Valley
     - Profaned Capital:
       - Profaned Capital
@@ -115,7 +131,113 @@ references:
       - The Dreg Heap
     - The Ringed City:
       - The Ringed City
-
+  # ------------------------------------------------------------------------------
+  # Characters
+  # ------------------------------------------------------------------------------
+  npcs:
+    - Greirat of the Undead Settlement:
+      - Greirat of the Undead Settlement
+      - Greirat
+    - Hawkwood:
+      - Hawkwood
+    - Ludleth of Courland:
+      - Ludleth of Courland
+      - Ludleth
+    - Emma, High Priestess of Lothric Castle:
+      - Emma, High Priestess of Lothric Castle
+    - Shrine Handmaid:
+      - Shrine Handmaid
+      - Handmaid
+    - Yoel of Londor:
+      - Yoel of Londor
+      - Yoel
+    - Yuria of Londor:
+      - Yuria of Londor
+      - Yuria
+    - Eygon of Carim:
+      - Eygon of Carim
+      - Eygon
+    - Irina of Carim:
+      - Irina of Carim
+      - Irina
+    - Cornyx of the Great Swamp:
+      - Cornyx of the Great Swamp
+      - Cornyx
+    - Horace the Hushed:
+      - Horace the Hushed
+      - Horace
+    - Leonhard:
+      - Leonhard
+    - Sirris of the Sunless Realms:
+      - Sirris of the Sunless Realms
+      - Sirris
+    - Orbeck of Vinheim:
+      - Orbeck of Vinheim
+      - Orbeck
+    - Anri of Astora:
+      - Anri of Astora
+      - Anri
+    - Rosaria, Mother of Rebirth:
+      - Rosaria, Mother of Rebirth
+      - Rosaria
+    - Archdeacon McDonnell:
+      - Archdeacon McDonnell
+      - McDonnell
+    - Holy Knight Hodrick:
+      - Holy Knight Hodrick
+      - Hodrick
+    - Karla:
+      - Karla
+    - Company Captain Yorshka:
+      - Company Captain Yorshka
+      - Yorshka
+    - Old Wolf of Farron:
+      - Old Wolf of Farron
+      - Old Wolf
+    - Sister Friede:
+      - Sister Friede
+      - Friede
+    - Sir Vilhelm:
+      - Sir Vilhelm
+      - Vilhelm
+    - Slave Knight Gael:
+      - Slave Knight Gael
+      - Gael
+    - Corvian Settler:
+      - Corvian Settler
+    - Painting Woman:
+      - Painting Woman
+    - Lapp:
+      - Lapp
+    - Filianore:
+      - Filianore
+    - Stone-humped Hag:
+      - Stone-humped Hag
+    - Judicator Argo:
+      - Judicator Argo
+      - Judicator
+      - Argo
+    - Shira:
+      - Shira
+    - Locust Preacher:
+      - Locust Preacher
   # ------------------------------------------------------------------------------
   # Weapons
   # ------------------------------------------------------------------------------
+
+  # ------------------------------------------------------------------------------
+  # Covenants
+  # ------------------------------------------------------------------------------
+  covenants:
+    - "Rosaria's Fingers":
+      - Rosaria's Fingers
+      - Rosaria
+    - Mound-Makers:
+      - Mound-Makers
+      - Mound Makers
+    - Watchdogs of Farron:
+      - Watchdogs of Farron
+    - Aldrich Faithful:
+      - Aldrich Faithful
+    - Spears of the Church:
+      - Spears of the Church

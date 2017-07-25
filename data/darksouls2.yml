@@ -2,16 +2,497 @@ game: Dark Souls 2
 subreddit: /r/darkSouls2
 references:
   # ------------------------------------------------------------------------------
+  # Title
+  # ------------------------------------------------------------------------------
+  Dark Souls 2:
+    - Dark Souls 2:
+      - in Dark Souls 2
+      - from Dark Souls 2
+  # ------------------------------------------------------------------------------
   # Bosses
   # ------------------------------------------------------------------------------
   bosses:
-    - Pursuer:
-      - Pursuer
+    - The Last Giant:
+      - The Last Giant
+    - The Pursuer:
+      - The Pursuer
+    - "Executioner's Chariot":
+      - Executioner's Chariot
+      - Chariot
+    - Looking Glass Knight:
+      - Looking Glass Knight
+    - The Skeleton Lords:
+      - The Skeleton Lords
+    - Flexile Sentry:
+      - Flexile Sentry
+    - Lost Sinner:
+      - Lost Sinner
+    - Belfry Gargoyles:
+      - Belfry Gargoyles
+    - Ruin Sentinels:
+      - Ruin Sentinels
+    - Royal Rat Vanguard:
+      - Royal Rat Vanguard
+    - Royal Rat Authority:
+      - Royal Rat Authority
+    - Scorpioness Najka:
+      - Scorpioness Najka
+      - Najka
+    - "The Duke's Dear Freja":
+      - The Duke's Dear Freja
+      - Freja
+    - Mytha, the Baneful Queen:
+      - Mytha, the Baneful Queen
+      - Mytha
+    - The Rotten:
+      - The Rotten
+    - Old Dragonslayer:
+      - Old Dragonslayer
+    - Covetous Demon:
+      - Covetous Demon
+    - Smelter Demon:
+      - Smelter Demon
+    - Old Iron King:
+      - Old Iron King
+    - Guardian Dragon:
+      - Guardian Dragon
+    - Demon of Song:
+      - Demon of Song
+    - Velstadt, The Royal Aegis:
+      - Velstadt, The Royal Aegis
+      - Velstadt
+    - Vendrick:
+      - Vendrick
+    - Darklurker:
+      - Darklurker
+    - Twin Dragonriders:
+      - Twin Dragonriders
+    - Dragonrider:
+      - Dragonrider
+    - Prowling Magus and Congregation:
+      - Prowling Magus and Congregation
+      - Prowling Magus
+    - Throne Watcher and Throne Defender:
+      - Throne Watcher and Throne Defender
+      - Throne Watcher
+      - Throne Defender
+    - Nashandra:
+      - Nashandra
+    - Aldia, Scholar of the First Sin:
+      - Aldia, Scholar of the First Sin
+      - Aldia
+    - Elana, Squalid Queen:
+      - Elana, Squalid Queen
+      - Elana
+    - Sinh, the Slumbering Dragon:
+      - Sinh, the Slumbering Dragon
+      - Sinh
+    - Afflicted Graverobber, Ancient Soldier Varg, and Cerah the Old Explorer:
+      - Afflicted Graverobber, Ancient Soldier Varg, and Cerah the Old Explorer
+      - Graverobber
+      - Varg
+      - Cerah
+    - Smelter Demon:
+      - Smelter Demon
+    - Fume Knight:
+      - Fume Knight
+    - Sir Alonne:
+      - Sir Alonne
+      - Alonne
+    - Burnt Ivory King:
+      - Burnt Ivory King
+    - "Aava, the King's Pet":
+      - Aava, the King's Pet
+      - Aava
+    - "Lud and Zallen, the King's Pets":
+      - Lud and Zallen, the King's Pets"
+      - Lud and Zallen
+      - Zallen
   # ------------------------------------------------------------------------------
   # Locations
   # ------------------------------------------------------------------------------
   locations:
+    - Things Betwixt:
+      - Things Betwixt
+    - Majula:
+      - Majula
+    - Forest of Fallen Giants:
+      - Forest of Fallen Giants
+      - Fallen Giants
+    - "Heide's Tower of Flame":
+      - Heide's Tower of Flame
+      - Heides Tower of Flame
+      - Tower of Flame
+    - Cathedral of Blue:
+      - Cathedral of Blue
+    - "No-Man's Wharf":
+      - No-Man's Wharf
+    - Lost Bastille:
+      - Lost Bastille
+      - Bastille
+    - Belfry Luna:
+      - Belfry Luna
+    - "Sinner's Rise":
+      - Sinner's Rise
+    - "Huntsman's Copse":
+      - Huntsman's Copse
+    - Undead Purgatory:
+      - Undead Purgatory
+    - Harvest Valley:
+      - Harvest Valley
+    - Earthen Peak:
+      - Earthen Peak
+    - Iron Keep:
+      - Iron Keep
+    - Belfry Sol:
+      - Belfry Sol
+    - The Pit:
+      - The Pit
+    - Grave of Saints:
+      - Grave of Saints
+    - The Gutter:
+      - The Gutter
+    - Black Gulch:
+      - Black Gulch
+    - Shaded Woods:
+      - Shaded Woods
+    - Doors of Pharros:
+      - Doors of Pharros
+    - Brightstone Cove Tseldora:
+      - Brightstone Cove Tseldora
+    - Shrine of Winter:
+      - Shrine of Winter
+    - Drangleic Castle:
+      - Drangleic Castle
+    - Shrine of Amana:
+      - Shrine of Amana
+    - Undead Crypt:
+      - Undead Crypt
+    - "Aldia's Keep":
+      - Aldia's Keep
+    - Dragon Aerie:
+      - Dragon Aerie
+    - Dragon Shrine:
+      - Dragon Shrine
+    - Dark Chasm of Old:
+      - Dark Chasm of Old
+    - Memory of Vammar:
+      - Memory of Vammar
+    - Memory of Orro:
+      - Memory of Orro
+    - Memory of Jeigh:
+      - Memory of Jeigh
+    - Dragon Memories:
+      - Dragon Memories
+    - Throne Of Want:
+      - Throne Of Want
+    - Shulva - Sanctum City:
+      - Shulva - Sanctum City
+      - Shulva
+      - Sanctum City
+    - "Dragon's Sanctum":
+      - Dragon's Sanctum
+    - "Dragon's Rest":
+      - Dragon's Rest
+    - Cave of the Dead:
+      - Cave of the Dead
+    - Memory of the King:
+      - Memory of the King
+    - Brume Tower:
+      - Brume Tower
+    - Iron passage:
+      - Iron passage
+    - Memory of the Old Iron King:
+      - Memory of the Old Iron King
+    - Frozen Eleum Loyce:
+      - Frozen Eleum Loyce
+    - The Cathedral:
+      - The Cathedral
+    - Old Chaos:
+      - Old Chaos
+    - Frigid Outskirts:
+      - Frigid Outskirts
   # ------------------------------------------------------------------------------
   # Weapons
   # ------------------------------------------------------------------------------
   weapons:
+    - "Pursuer's Ultra Greatsword":
+      - Pursuer's Ultra Greatsword
+    - "Pursuer's Greatshield":
+      - Pursuer's Greatshield
+    - Warped Sword:
+      - Warped Sword
+    - Arced Sword:
+      - Arced Sword
+    - Barbed Club:
+      - Barbed Club
+    - Heavy Homing Soul Arrow:
+      - Heavy Homing Soul Arrow
+    - "Mytha's Bent Blade":
+      - Mytha's Bent Blade
+    - Smelter Sword:
+      - Smelter Sword
+    - Gargoyle Bident:
+      - Gargoyle Bident
+    - "Dragonrider's Halberd":
+      - Dragonrider's Halberd
+    - Dragonrider Twinblade:
+      - Dragonrider Twinblade
+    - Dragonrider Bow:
+      - Dragonrider Bow
+    - Dragonrider Greatshield:
+      - Dragonrider Greatshield
+    - Roaring Halberd:
+      - Roaring Halberd
+    - Chariot Lance:
+      - Chariot Lance
+    - Shield Crossbow:
+      - Shield Crossbow
+    - Bone Scythe:
+      - Bone Scythe
+    - Lifedrain Patch:
+      - Lifedrain Patch
+    - Soul Shower:
+      - Soul Shower
+    - Spotted Whip:
+      - Spotted Whip
+    - Numbness:
+      - Numbness
+    - Outcry:
+      - Outcry
+    - Drakewing Ultra Greatsword:
+      - Drakewing Ultra Greatsword
+    - Spitfire Spear:
+      - Spitfire Spear
+    - Curved Dragon Greatsword:
+      - Curved Dragon Greatsword
+    - Spider Fang:
+      - Spider Fang
+    - "Spider's Silk":
+      - Spider's Silk
+    - Sacred Chime Hammer:
+      - Sacred Chime Hammer
+    - Iron King Hammer:
+      - Iron King Hammer
+    - "King's Mirror":
+      - King's Mirror
+    - Thorned Greatsword:
+      - Thorned Greatsword
+    - "Ruler's Sword":
+      - Ruler's Sword
+    - "King's Shield":
+      - King's Shield
+    - "King's Ultra Greatsword":
+      - King's Ultra Greatsword
+    - "Lost Sinner's Sword":
+      - Lost Sinner's Sword
+    - "Watcher Greatsword":
+      - Watcher Greatsword
+    - Watcher Shield:
+      - Watcher Shield
+    - Defender Greatsword:
+      - Defender Greatsword
+    - Defender Shield:
+      - Defender Shield
+    - Scythe of Want:
+      - Scythe of Want
+    - Chime of Want:
+      - Chime of Want
+    - Bow of Want:
+      - Bow of Want
+    - Crypt Blacksword:
+      - Crypt Blacksword
+    - "Yorgh's Spear":
+      - Yorgh's Spear
+    - Wrathful Axe:
+      - Wrathful Axe
+    - Bewitched Alonne Sword:
+      - Bewitched Alonne Sword
+    - Fume Sword:
+      - Fume Sword
+    - Fume Ultra Greatsword:
+      - Fume Ultra Greatsword
+    - Chime of Screams:
+      - Chime of Screams
+    - Aged Smelter Sword:
+      - Aged Smelter Sword
+    - Ivory King Ultra Greatsword:
+      - Ivory King Ultra Greatsword
+    - Ivory Straight Sword:
+      - Ivory Straight Sword
+    - Loyce Greatsword:
+      - Loyce Greatsword
+    - Loyce Shield:
+      - Loyce Shield
+    - Eleum Loyce:
+      - Eleum Loyce
+  # ------------------------------------------------------------------------------
+  # Characters
+  # ------------------------------------------------------------------------------
+  npcs:
+    - Milibeth:
+      - Milibeth
+    - Strowen:
+      - Strowen
+    - Dyna and Tillo:
+      - Dyna and Tillo
+      - Dyna
+      - Tillo
+    - Shanalotte:
+      - Shanalotte
+    - Blacksmith Lenigrast:
+      - Blacksmith Lenigrast
+      - Lenigrast
+    - Stone Trader Chloanne:
+      - Stone Trader Chloanne
+      - Chloanne
+    - Rosabeth of Melfia:
+      - Rosabeth of Melfia
+      - Rosabeth
+    - Carhillion of the Fold:
+      - Carhillion of the Fold
+      - Carhillion
+    - Crestfallen Saulden:
+      - Crestfallen Saulden
+      - Saulden
+    - Sweet Shalquoir:
+      - Sweet Shalquoir
+      - Shalquoir
+    - Laddersmith Gilligan:
+      - Laddersmith Gilligan
+      - Gilligan
+    - Maughlin the Armourer:
+      - Maughlin the Armourer
+      - Maughlin
+    - Cale the Cartographer:
+      - Cale the Cartographer
+      - Cartographer
+    - Benhart of Jugo:
+      - Benhart of Jugo
+      - Benhart
+    - Merchant Hag Melentia:
+      - Merchant Hag Melentia
+      - Melentia
+    - Licia of Lindelt:
+      - Licia of Lindelt
+      - Licia
+    - Mild Mannered Pate:
+      - Mild Mannered Pate
+    - Royal Sorcerer Navlaan:
+      - Royal Sorcerer Navlaan
+      - Navlaan
+    - Blue Sentinel Targray:
+      - Blue Sentinel Targray
+      - Targray
+    - Gavlan:
+      - Gavlan
+    - Lucatiel of Mirrah:
+      - Lucatiel of Mirrah
+      - Lucatiel
+    - Straid of Olaphis:
+      - Straid of Olaphis
+    - Steady Hand McDuff:
+      - Steady Hand McDuff
+    - Bell Keeper:
+      - Bell Keeper
+    - Creighton the Wanderer:
+      - Creighton the Wanderer
+      - Creighton
+    - Felkin the Outcast:
+      - Felkin the Outcast
+      - Felkin
+    - Grave Warden Agdayne:
+      - Grave Warden Agdayne
+      - Agdayne
+    - Titchy Gren:
+      - Titchy Gren
+    - Darkdiver Grandahl:
+      - Darkdiver Grandahl
+      - Grandahl
+    - Rat King:
+      - Rat King
+    - Magerold of Lanafir:
+      - Magerold of Lanafir
+      - Magerold
+    - Head of Vengarl:
+      - Head of Vengarl
+      - Vengarl
+    - Weaponsmith Ornifex:
+      - Weaponsmith Ornifex
+      - Ornifex
+    - Captain Drummond:
+      - Captain Drummond
+      - Drummond
+    - Manscorpion Tark:
+      - Manscorpion Tark
+    - Cromwell the Pardoner:
+      - Cromwell the Pardoner
+      - Cromwell
+    - Chancellor Wellager:
+      - Chancellor Wellager
+      - Wellager
+    - Nashandra:
+      - Nashandra
+    - Milfanito:
+      - Milfanito
+    - King Vendrick:
+      - King Vendrick
+      - Vendrick
+    - Ancient Dragon:
+      - Ancient Dragon
+    - Alsanna, Silent Oracle:
+      - Alsanna, Silent Oracle
+      - Alsanna
+    - Masterless Glencour:
+      - Masterless Glencour
+      - Glencour
+    - Pilgrim Bellclaire:
+      - Pilgrim Bellclaire
+      - Bellclaire
+    - Jester Thomas:
+      - Jester Thomas
+    - Felicia the Brave:
+      - Felicia the Brave
+    - Ashen Knight Boyd:
+      - Ashen Knight Boyd
+    - Lone Hunter Schmidt:
+      - Lone Hunter Schmidt
+      - Schmidt
+    - Melinda the Butcher:
+      - Melinda the Butcher
+      - Melinda
+    - Nameless Usurper:
+      - Nameless Usurper
+    - Peculiar Kindalur:
+      - Peculiar Kindalur
+      - Kindalur
+    - Merciless Roenna:
+      - Merciless Roenna
+      - Roenna
+    - Bowman Guthry:
+      - Bowman Guthry
+      - Guthry
+    - Aslatiel of Mirrah:
+      - Aslatiel of Mirrah
+      - Aslatiel
+    - Rhoy the Explorer:
+      - Rhoy the Explorer
+      - Rhoy
+  # ------------------------------------------------------------------------------
+  # Covenants
+  # ------------------------------------------------------------------------------
+  covenants:
+    - Heirs of the Sun:
+      - Heirs of the Sun
+    - Brotherhood of Blood:
+      - Brotherhood of Blood
+    - Bell Keepers:
+      - Bell Keepers
+    - Rat King:
+      - Rat King
+    - Dragon Remnants:
+      - Dragon Remnants
+    - Company of Champions:
+      - Company of Champions
+    - Pilgrims of Dark:
+      - Pilgrims of Dark

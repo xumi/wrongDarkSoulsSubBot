@@ -1,0 +1,173 @@
+game: Dark Souls 1
+subreddit: /r/darkSouls
+references:
+  # ------------------------------------------------------------------------------
+  # Title
+  # ------------------------------------------------------------------------------
+  Dark Souls 1:
+    - Dark Souls 1:
+      - Dark Souls 1
+      - DS1
+  # ------------------------------------------------------------------------------
+  # Bosses
+  # ------------------------------------------------------------------------------
+  bosses:
+    - Asylum Demon:
+        - Asylum Demon
+    - Bed of Chaos:
+      - Bed of Chaos
+    - Bell Gargoyles:
+      - Bell Gargoyles
+    - Black Dragon Kalameet:
+      - Kalameet
+    - Capra Demon:
+      - Capra Demon
+    - Ceaseless Discharge:
+      - Ceaseless Discharge
+    - Centipede Demon:
+      - Centipede Demon
+    - Chaos Witch Quelaag:
+      - Chaos Witch Quelaag
+      - Quelaag
+      - Quelag
+    - Crossbreed Priscilla:
+      - Priscilla
+    - Dark Sun Gwyndolin:
+      - Dark Sun Gwyndolin
+      - Gwyndolin
+    - Demon Firesage:
+      - Demon Firesage
+    - Dragon Slayer Ornstein & Executioner Smough:
+      - Dragon Slayer Ornstein & Executioner Smough
+      - Ornstein & Smough
+      - O&S
+      - O+S
+    - Four Kings:
+      - Four Kings
+      - 4 Kings
+    - Gaping Dragon:
+      - Gaping Dragon
+      - Vagina Dragon
+    - Gravelord Nito:
+      - Gravelord Nito
+      - Nito
+    - Gwyn, Lord of Cinder:
+      - Gwyn, Lord of Cinder
+      - Gwyn
+    - Iron Golem:
+      - Iron Golem
+    - Knight Artorias:
+      - Knight Artorias
+      - Artorias
+    - Manus, Father of the Abyss:
+      - Manus, Father of the Abyss
+      - Manus
+    - Moonlight Butterfly:
+      - Moonlight Butterfly
+      - Butterfly
+    - Pinwheel:
+      - Pinwheel
+    - Sanctuary Guardian:
+      - Sanctuary Guardian
+    - Seath the Scaleless:
+      - Seath the Scaleless
+      - Seath
+    - Sif, the Great Grey Wolf:
+      - Sif, the Great Grey Wolf
+      - Sif
+    - Stray Demon:
+      - Stray Demon
+    - Taurus Demon:
+      - Taurus Demon
+    - Hydra:
+      - Hydra
+    - Undead Prince Ricard:
+      - Undead Prince Ricard
+      - Ricard
+  # ------------------------------------------------------------------------------
+  # Locations
+  # ------------------------------------------------------------------------------
+  locations:
+    - Undead Asylum:
+      - Undead Asylum
+    - Undead Burg:
+      - Undead Burg
+    - Undead Parish:
+      - Undead Parish
+    - The Depths:
+      - The Depths
+    - Blighttown:
+      - Blighttown
+    - Quelaag's Domain:
+      - Quelaag's Domain
+    - The Great Hollow:
+      - The Great Hollow
+    - Ash Lake:
+      - Ash Lake
+    - Sen's Fortress:
+      - Sen's Fortress
+      - Sen's Funhouse
+      - Sens Funhouse
+    - Painted World Of Ariamis:
+      - Painted World Of Ariamis
+      - Painted World
+      - Ariamis
+    - Sanctuary Garden:
+      - Sanctuary Garden
+    - Oolacile Sanctuary:
+      - Oolacile Sanctuary
+      - Oolacile
+    - Royal Wood:
+      - Royal Wood
+    - Oolacile Township:
+      - Oolacile Township
+      - Oolacile
+    - Battle of Stoicism:
+      - Battle of Stoicism
+    - Battle of Stoicism Gazebo:
+      - Battle of Stoicism Gazebo
+    - Chasm of the Abyss:
+      - Chasm of the Abyss
+    - Darkroot Garden:
+      - Darkroot Garden
+      - Darkroot
+    - Darkroot Basin:
+      - Darkroot Basin
+      - Darkroot
+    - Valley of Drakes:
+      - Valley of Drakes
+    - New Londo Ruins:
+      - New Londo Ruins
+      - New Londo
+    - "The Duke's Archives":
+      - The Duke's Archives
+    - Crystal Cave:
+      - Crystal Cave
+    - The Catacombs:
+      - The Catacombs
+    - Tomb of the Giants:
+      - Tomb of the Giants
+      - ToG
+    - Demon Ruins:
+      - Demon Ruins
+    - Lost Izalith:
+      - Lost Izalith
+  # ------------------------------------------------------------------------------
+  # Weapons (TODO)
+  # ------------------------------------------------------------------------------
+  # ------------------------------------------------------------------------------
+  # Covenants
+  # ------------------------------------------------------------------------------
+  covenants:
+    - Chaos Servant:
+      - Chaos Servant
+    - Forest Hunter:
+      - Forest Hunter
+    - Gravelord Servant:
+      - Gravelord Servant
+    - Path of the Dragon:
+      - Path of the Dragon
+    - "Princess's Guard":
+      - Princess's Guard
+    - Way of White:
+      - Way of White
